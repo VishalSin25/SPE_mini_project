@@ -49,7 +49,6 @@ pipeline {
                 disableHostKeyChecking:true,
                 inventory: 'inventory'
                 playbook:'playbook.yml'
-
                 )
             }
         }
