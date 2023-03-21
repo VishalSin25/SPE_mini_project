@@ -1,0 +1,8 @@
+2023-03-21 10:31:06.740 [main] INFO  org.example.Calculator - A user entered !
+2023-03-21 10:31:27.354 [main] INFO  org.example.Calculator - Factorial of 12.0
+2023-03-21 10:31:27.383 [main] INFO  org.example.Calculator - !12.0 = 479001600
+2023-03-21 10:31:27.384 [main] INFO  org.example.Calculator - A user entered !
+2023-03-21 10:31:32.962 [main] INFO  org.example.Calculator - Natural logarithm of169.0
+2023-03-21 10:31:32.983 [main] INFO  org.example.Calculator - log(169.0) = 5.1298987149230735
+2023-03-21 10:31:32.984 [main] INFO  org.example.Calculator - A user entered !
+2023-03-21 10:31:35.729 [main] INFO  org.example.Calculator - Exit
