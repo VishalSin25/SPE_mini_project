@@ -47,8 +47,8 @@ pipeline {
                 installation: 'Ansible',
                 colorized:true,
                 disableHostKeyChecking:true,
-                inventory: 'inventory'
-                playbook:'playbook.yml'
+                inventory: 'inventory',
+                playbook:'playbook.yml',
                 )
             }
         }
