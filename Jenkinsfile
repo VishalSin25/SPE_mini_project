@@ -34,13 +34,13 @@ pipeline {
                               }
                            }
                         }
-        stage('Delete docker image from local') {
-                            steps {
+        //stage('Delete docker image from local') {
+                           // steps {
                                //script{
                                //sh 'docker image rm -f vishalsin25/miniproject'
                                //}
-                            }
-                        }
+                            //}
+                        //}
 
          stage('Ansible pull image') {
             steps {
