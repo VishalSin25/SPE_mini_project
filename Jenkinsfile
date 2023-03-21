@@ -37,7 +37,7 @@ pipeline {
         stage('Delete docker image from local') {
                             steps {
                                script{
-                               sh 'docker image rm -f vishalsin25/miniproject'
+                               //sh 'docker image rm -f vishalsin25/miniproject'
                                }
                             }
                         }
