@@ -4,6 +4,7 @@ pipeline {
         registry=" "
         registryCredential = 'dockerhub'
         dockerImage = ''
+         LANG = 'en_US.UTF-8'
     }
 
     stages {
