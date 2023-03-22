@@ -1,7 +1,7 @@
 pipeline {
     agent any
     environment {
-        registry=" "
+        registry="vishalsin25/miniproject"
         registryCredential = 'dockerhub'
         dockerImage = ''
          LANG = 'en_US.UTF-8'
